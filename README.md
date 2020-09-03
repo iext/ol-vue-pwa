@@ -1,4 +1,4 @@
-# test-pwa
+# openlayers+vuejs+pwa
 
 ## Project setup
 ```
